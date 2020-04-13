@@ -1,5 +1,10 @@
 # citizenship-context ChangeLog
 
+## 3.0.0 - 2020-04-13
+
+### Added
+- Add `identifier` term.
+
 ## 2.0.0 - 2020-02-19
 
 ### Changed
