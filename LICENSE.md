@@ -6,7 +6,7 @@ All other files are licensed under a BSD 3-Clause license:
 ```
 BSD 3-Clause License
 
-Copyright (c) 2020, Digital Bazaar, Inc.
+Copyright (c) 2020-2024, Digital Bazaar, Inc.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -35,5 +35,5 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
-[citizenship-vocab]: https://github.com/digitalbazaar/citizenship-vocab
+[citizenship-vocab]: https://github.com/w3c-ccg/citizenship-vocab
 [W3C Software and Document License]: http://www.w3.org/Consortium/Legal/copyright-software
