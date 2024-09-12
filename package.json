@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/citizenship-context",
-  "version": "4.0.0",
+  "version": "4.0.1-0",
   "description": "Citizenship Context",
   "type": "module",
   "main": "./lib/index.js",
