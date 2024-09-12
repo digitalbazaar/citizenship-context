@@ -1,6 +1,6 @@
 # @digitalbazaar/citizenship-context ChangeLog
 
-## 4.0.0 - 2024-xx-xx
+## 4.0.0 - 2024-09-12
 
 ### Added
 - Support v2 and v3 contexts from vocab repo.
