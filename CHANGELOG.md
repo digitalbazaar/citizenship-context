@@ -1,6 +1,6 @@
 # @digitalbazaar/citizenship-context ChangeLog
 
-## 4.1.0 - 2024-10-xx
+## 4.1.0 - 2024-10-07
 
 ### Added
 - Add `image` to `v4rc1` context. It was removed from `v1` but is still needed
