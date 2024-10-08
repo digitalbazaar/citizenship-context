@@ -1,5 +1,11 @@
 # @digitalbazaar/citizenship-context ChangeLog
 
+## 4.1.0 - 2024-10-xx
+
+### Added
+- Add `image` to `v4rc1` context. It was removed from `v1` but is still needed
+  in updated examples so that issuers can have images without requiring an extra context.
+
 ## 4.0.0 - 2024-09-12
 
 ### Added
